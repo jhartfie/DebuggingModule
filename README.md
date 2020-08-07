@@ -1,7 +1,5 @@
 # DebuggingModule
 
-READ ME
-
 This program consists of 3 different levels of difficulty.
 
 Level 1 has 3 lessons and one quiz.
